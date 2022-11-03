@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    background-color: rgb(202, 58, 140);
+    padding-left: 50px;
+}
+
+.header_block {
+    color: #000;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+
